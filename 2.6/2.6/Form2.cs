@@ -15,7 +15,7 @@ namespace _2._6
 {
     public partial class Form2 : Form
     {
-        string strCon = @"Data Source=redRUM\REDRUM;Initial Catalog=bai2_6;Integrated Security=True";
+       string strCon =  @"Server=REDRUM\REDRUM;Database=bai2_6;User Id=redtest;Password=Quyen@213;";
         SqlConnection sqlCon = null;
         public Form2()
         {

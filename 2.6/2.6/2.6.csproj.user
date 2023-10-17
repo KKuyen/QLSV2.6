@@ -8,4 +8,9 @@
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
+  <ItemGroup>
+    <None Update="MainDs\emp.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
 </Project>
